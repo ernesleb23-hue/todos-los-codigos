@@ -5,9 +5,9 @@ using namespace std;
 
 int main() {
 	cout<<"hola mundo" <<endl;
-	cout<<"eres de la clase de programcion" <<endl;
-	cout<<"fue un gusto conocerte" <<endl;
-	cout<<"cuidate" <<endl;
+	cout<<"eres de programacion" <<endl;
+	cout<<"es un gusto" <<endl;
+	cout<<"adios" <<endl;
 	return 0;
 }
 
