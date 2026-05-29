@@ -11,8 +11,6 @@ int main()
 	cout<<"hola programador\n";
 	cout<<"hoy es otra oportunidad\n";
 	cout<<"para aprender\n";
-	cout<<"arroz con pollo\n";
-	cout<<"six seven\n";
 	
 	getch ();
 }
